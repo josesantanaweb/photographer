@@ -6,6 +6,7 @@ import Header from "@/components/header";
 import About from "@/components/about";
 import Services from "@/components/services";
 import Works from "@/components/works";
+import Footer from "@/components/footer";
 
 
 const RootPage = () => {
@@ -17,6 +18,7 @@ const RootPage = () => {
       <About />
       <Services />
       <Works />
+      <Footer />
     </>
   );
 };
