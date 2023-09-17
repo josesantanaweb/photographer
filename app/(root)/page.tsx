@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import Navbar from "@/components/navbar";
 import Header from "@/components/header";
 import About from "@/components/about";
+import Services from "@/components/services";
 
 
 const RootPage = () => {
@@ -13,6 +14,7 @@ const RootPage = () => {
       <Navbar />
       <Header />
       <About />
+      <Services />
     </>
   );
 };
