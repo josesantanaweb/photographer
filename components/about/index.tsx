@@ -12,7 +12,7 @@ const About = () => {
       <div className="container grid items-center justify-center grid-cols-2 gap-32 px-20">
         <div>
           <h2 className="mb-4 text-4xl font-bold leading-10 text-primary">
-            Hello, I'm Martin Dan, a professional photographer based on New York
+            Hello, I am Martin Dan, a professional photographer based on New York
           </h2>
           <p className="mb-4 leading-7 text-gray-500">
             I love to pause the wild, happy and real moments of life, just to

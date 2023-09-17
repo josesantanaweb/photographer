@@ -8,7 +8,7 @@ const Header = () => {
         <div>
           <p className="mb-3 text-lg text-gray-500">Hello there !</p>
           <h1 className="mb-10 text-6xl font-bold text-gray-200 uppercase">
-            I'm Martin Dan
+            I am Martin Dan
           </h1>
           <p className="mb-10 text-lg leading-8 text-gray-500">
             I am professional photographer based on New York, creating
