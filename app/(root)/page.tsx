@@ -5,6 +5,7 @@ import Navbar from "@/components/navbar";
 import Header from "@/components/header";
 import About from "@/components/about";
 import Services from "@/components/services";
+import Works from "@/components/works";
 
 
 const RootPage = () => {
@@ -15,6 +16,7 @@ const RootPage = () => {
       <Header />
       <About />
       <Services />
+      <Works />
     </>
   );
 };

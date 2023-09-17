@@ -31,3 +31,54 @@ export const services = [
     text: "Video Color Grading bibendum amen vacus the vulputate in the vitae.",
   },
 ];
+export const tag = ["all", "personal", "wedding", "event", "fashion", "product"];
+export const works = [
+  {
+    tag: "personal",
+    imagen: "w2",
+  },
+  {
+    tag: "wedding",
+    imagen: "e2",
+  },
+  {
+    tag: "personal",
+    imagen: "f1",
+  },
+  {
+    tag: "wedding",
+    imagen: "p1",
+  },
+  {
+    tag: "event",
+    imagen: "p1",
+  },
+  {
+    tag: "personal",
+    imagen: "p2",
+  },
+  {
+    tag: "personal",
+    imagen: "p3",
+  },
+  {
+    tag: "event",
+    imagen: "e2",
+  },
+  {
+    tag: "fashion",
+    imagen: "e1",
+  },
+  {
+    tag: "personal",
+    imagen: "w1",
+  },
+  {
+    tag: "fashion",
+    imagen: "f2",
+  },
+  {
+    tag: "product",
+    imagen: "f1",
+  },
+];
