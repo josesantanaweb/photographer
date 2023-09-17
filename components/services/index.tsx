@@ -28,7 +28,7 @@ const Services = () => {
   }
 
   return (
-    <section className="flex items-center justify-center transition-all py-28 bg-primary">
+    <section className="flex items-center justify-center transition-all py-28 bg-primary" id="services">
       <div className="container px-20">
         <div className="w-2/5 m-auto text-center">
           <h2 className="mb-6 text-3xl font-bold text-center text-gray-200">

@@ -14,7 +14,10 @@ const Works = () => {
   };
 
   return (
-    <section className="flex items-center justify-center transition-all py-28 bg-white">
+    <section
+      className="flex items-center justify-center transition-all py-28 bg-white"
+      id="works"
+    >
       <div className="container px-20">
         <div className="border-b border-gray-300 w-2/5 mb-4">
           <h3 className="mb-6 text-3xl font-bold text-primary">My Works</h3>

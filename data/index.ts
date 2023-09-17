@@ -1,4 +1,4 @@
-export const menu = ["home", "about", "services", "works"]
+export const menu = ["about", "services", "works"]
 export const services = [
   {
     icon: "icon-1",

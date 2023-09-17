@@ -5,7 +5,10 @@ import { BiCheck } from "react-icons/bi";
 const About = () => {
 
   return (
-    <section className="flex items-center justify-center transition-all py-28">
+    <section
+      className="flex items-center justify-center transition-all py-28"
+      id="about"
+    >
       <div className="container grid items-center justify-center grid-cols-2 gap-32 px-20">
         <div>
           <h2 className="mb-4 text-4xl font-bold leading-10 text-primary">
@@ -46,7 +49,11 @@ const About = () => {
           </div>
         </div>
         <div className="relative about">
-          <img src="/about.jpg" alt="photographer" className="w-[400px] relative z-10" />
+          <img
+            src="/about.jpg"
+            alt="photographer"
+            className="w-[400px] relative z-10"
+          />
         </div>
       </div>
     </section>
