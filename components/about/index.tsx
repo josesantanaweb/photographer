@@ -12,32 +12,31 @@ const About = () => {
       <div className="container grid items-center justify-center grid-cols-2 gap-32 px-20">
         <div>
           <h2 className="mb-4 text-4xl font-bold leading-10 text-primary">
-            Hello, I am Martin Dan, a professional photographer based on New York
+            Hello, I’m Héctor Colmenares, a journalist and a sport photographer
+            raised in Venezuela but based in Orlando
           </h2>
           <p className="mb-4 leading-7 text-gray-500">
-            I love to pause the wild, happy and real moments of life, just to
-            hear their stories untold. Viverra tristique usto duis vitae diam
-            neque nivamus estan ateuene artines viverra nec setlie no curabit
-            tristique.
+            Passionate of capture and document the sport life with a journalist
+            side but with the vision of a lense prepare for the moment
           </p>
           <ul className="pb-4 mb-4 border-b border-gray-200">
             <li className="flex items-center gap-3 my-4">
               <span className="flex items-center justify-center w-8 h-8 text-2xl text-gray-200 rounded-full bg-primary">
                 <BiCheck />
               </span>
-              Over 15 years of experience
+              5 years of experience in journalism and sport
             </li>
             <li className="flex items-center gap-3 my-4">
               <span className="flex items-center justify-center w-8 h-8 text-2xl text-gray-200 rounded-full bg-primary">
                 <BiCheck />
               </span>
-              200+ successfully executed projects
+              2 projects with Baseball teams in Venezuela
             </li>
             <li className="flex items-center gap-3 my-4">
               <span className="flex items-center justify-center w-8 h-8 text-2xl text-gray-200 rounded-full bg-primary">
                 <BiCheck />
               </span>
-              Exceptional work quality
+              Exceptional and dedicated work quality
             </li>
           </ul>
           <div className="flex items-center gap-8">

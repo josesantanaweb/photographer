@@ -8,11 +8,11 @@ const Header = () => {
         <div className="relative z-10">
           <p className="mb-3 text-lg text-gray-200">Hello there !</p>
           <h1 className="mb-10 text-6xl font-bold text-gray-200 uppercase">
-            I am Martin Dan
+            I am Hector Colmenares
           </h1>
           <p className="mb-10 text-lg leading-8 text-gray-200">
-            I am professional photographer based on New York, creating
-            dreamscapes with black, white and shades in-between.
+            I am a Journalist from Venezuela living in Orlando, with the ability
+            of graphic design and sport photographer
           </p>
           <div className="flex items-center gap-5 relative z-10">
             <Button label="My Works" onClick={() => console.log("")} />
