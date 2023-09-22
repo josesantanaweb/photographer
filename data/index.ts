@@ -3,27 +3,27 @@ export const services = [
   {
     icon: "icon-1",
     title: "Photography",
-    text: "Photography bibendum eros amet vacun the vulputate in the vitae miss.",
+    text: "A work that I learned with Magallanes BBC (LVBP) and Marineros de Carabobo (LMBP) with I was a part of the press team in 2022",
   },
   {
     icon: "icon-2",
     title: "Videography",
-    text: "Videography bibendum eros amen vacun the vulputate in the vitae miss.",
+    text: "Another skill that has come with the experience in Venezuela with the professional teams in baseball and the independent work for basketball",
   },
   {
     icon: "icon-3",
-    title: "Photo Retouching",
-    text: "Photo Retouching bibenum eros amen vacun the vulputate the vitae miss.",
+    title: "Graphic Design",
+    text: "Know in the use of Photoshop, Canva, Basic Illustrator",
   },
   {
     icon: "icon-4",
-    title: "Aerial Photography",
-    text: "Aerial Photography bibendum eros amen vacun the vulputate in the miss.",
+    title: "Journalism",
+    text: "Graduated in Venezuela, have the capacity of doing a press media job in the area that is required",
   },
   {
     icon: "icon-5",
-    title: "Lightning Setup",
-    text: "Lightning Setup bibendum eros amen vacus duru in the vitae miss.",
+    title: "Write",
+    text: "The ability to write is one of those skills that has come with the practice all these years, and is one of the strongest in the repertoire",
   },
   {
     icon: "icon-6",
@@ -31,54 +31,54 @@ export const services = [
     text: "Video Color Grading bibendum amen vacus the vulputate in the vitae.",
   },
 ];
-export const tag = ["all", "personal", "wedding", "event", "fashion", "product"];
+export const tag = ["all", "baseball", "basketball", "personal"];
 export const works = [
   {
-    tag: "personal",
+    tag: "baseball",
     imagen: "w2",
   },
   {
-    tag: "wedding",
+    tag: "baseball",
     imagen: "e2",
   },
   {
-    tag: "personal",
-    imagen: "f1",
+    tag: "baseball",
+    imagen: "t5",
   },
   {
-    tag: "wedding",
+    tag: "baseball",
     imagen: "p1",
   },
   {
-    tag: "event",
-    imagen: "p1",
+    tag: "basketball",
+    imagen: "t3",
   },
   {
-    tag: "personal",
+    tag: "baseball",
     imagen: "p2",
   },
   {
-    tag: "personal",
+    tag: "baseball",
     imagen: "p3",
   },
   {
-    tag: "event",
-    imagen: "e2",
+    tag: "personal",
+    imagen: "e8",
   },
   {
-    tag: "fashion",
+    tag: "basketball",
     imagen: "e1",
   },
   {
-    tag: "personal",
+    tag: "basketball",
     imagen: "w1",
   },
   {
-    tag: "fashion",
+    tag: "baseball",
     imagen: "f2",
   },
   {
-    tag: "product",
+    tag: "basketball",
     imagen: "f1",
   },
 ];

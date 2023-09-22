@@ -16,11 +16,6 @@ const Header = () => {
           </p>
           <div className="flex items-center gap-5 relative z-10">
             <Button label="My Works" onClick={() => console.log("")} />
-            <Button
-              label="Contact Me"
-              onClick={() => console.log("")}
-              variant="secondary"
-            />
           </div>
         </div>
       </div>
