@@ -27,8 +27,8 @@ export const services = [
   },
   {
     icon: "icon-6",
-    title: "Video Color Grading",
-    text: "Video Color Grading bibendum amen vacus the vulputate in the vitae.",
+    title: "Photo edit",
+    text: "Capacity of edit photos in Adobe Lightroom with experience in sports all over the past 3 years",
   },
 ];
 export const tag = ["all", "baseball", "basketball", "personal"];
